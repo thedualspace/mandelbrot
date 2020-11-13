@@ -18,13 +18,13 @@ Some images generated are included below:
 
 ![Mandelbrot Off-axis](/images/Mandelbrot.png)
 
-![Mandelbrot Octopus](/images/Octopus.png)
+![Mandelbrot Octopus](/images/octopus.png)
 
 ![Julia Icicles](/images/juliaIcicles.png)
 
 ![Mandelbrot lightning](/images/lightning.png)
 
-![Mandelbrot Blood Cell](/images/Mandelbrot.png)
+![Mandelbrot Blood Cell](/images/bloodcell.png)
 
 ![Mandelbrot Snowstorm](/images/snowstorm.png)
 
