@@ -8,7 +8,8 @@ To add color, standard linear colormaps from matplotlib are used.
 
 ![Mandelbrot function](/images/equation.png)
 
-To create videos, the applications produces a series of .png's which are combined using FFMPEG. To generate a 1m 30s video at 1080p 30fps, 2700 frames are required, which took about 1hr 30min on a dell inspiron laptop.
+To create videos, the applications produces a series of .png's which are combined using FFMPEG. To generate a 1m 30s video at 1080p 30fps, 2700 frames are required, which took about 1hr 30min on a dell inspiron laptop. 
+A small collection of [videos can be viewed here.](https://www.youtube.com/playlist?list=PLJsrSpdT9jKOawbrIZByNnJZqIVfpCigs)
 
 Filenames containing CUDA expect an Nvidia GPU to run. Other files use the standard numba JIT compiler on the CPU, but this will run more slowly. 
 
